@@ -7,7 +7,7 @@ Nós aplicaremos SR em dois cenários
 
 1. Recomendação de produtos similares caso o produto que o cliente está procurando está em falta. Essa identificação do produto pode ser feita por foto tirada pelo smarthphone também.
 
-2. Recomendação de vizinhança, exemplo da amazon "Quem comprou, também compra:" oferecendo um produto que geralmente é comprado junto do primeiro
+2. Recomendação de vizinhança, exemplo da amazon "Quem comprou, também compra:" oferecendo um produto que geralmente é comprado junto do primeiro. No caso da falta de uma recomendação, exibir um produto da categoria semelhante, e se não existir exibir um produto aleatório
 
 ## Arquitetura (Desenho da arquitetura técnica conceitual do seu SR integrado ao seu projeto da Startup)
 
