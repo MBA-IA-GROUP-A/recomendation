@@ -1,0 +1,14 @@
+# Projeto de Sistemas de Recomendação
+
+## Proposta (Objetivo, Contexto e de que forma o grupo aplicará Sistemas de Recomendação no seu projeto de Startup)
+
+O nosso projeto é sobre um Super App de supermercado. Nesse aplicativo o cliente pode fazer pedido de produtos variados tanto para entrega quanto para retirada.
+Nós aplicaremos SR em dois cenários
+
+1. Recomendação de produtos similares caso o produto que o cliente está procurando está em falta. Essa identificação do produto pode ser feita por foto tirada pelo smarthphone também.
+
+2. Recomendação de vizinhança, exemplo da amazon "Quem comprou, também compra:" oferecendo um produto que geralmente é comprado junto do primeiro
+
+## Arquitetura (Desenho da arquitetura técnica conceitual do seu SR integrado ao seu projeto da Startup)
+
+## Protótipo (Prints de Tela ou protótipo navegável de forma que fique visível a aplicação do SR no contexto da sua Startup)
