@@ -11,4 +11,8 @@ Nós aplicaremos SR em dois cenários
 
 ## Arquitetura (Desenho da arquitetura técnica conceitual do seu SR integrado ao seu projeto da Startup)
 
+https://www.figma.com/file/3TB5w8x1UpKjKGU8TTXQN9/IA-FIAP-team-library?node-id=520%3A84&t=mroSvlKVxa7Adu1S-0
+
 ## Protótipo (Prints de Tela ou protótipo navegável de forma que fique visível a aplicação do SR no contexto da sua Startup)
+
+https://docs.google.com/presentation/d/1JRjpYuCBHih451_CrM_LbNcF2I8M0fttGGtGWy4IG10/edit#slide=id.g21993746b65_0_1384
