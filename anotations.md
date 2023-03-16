@@ -16,3 +16,5 @@ Ver aquivo [flowchart](https://github.com/MBA-IA-GROUP-A/recomendation/blob/mast
 ## Protótipo (Prints de Tela ou protótipo navegável de forma que fique visível a aplicação do SR no contexto da sua Startup)
 
 [Aqui](https://www.figma.com/proto/3TB5w8x1UpKjKGU8TTXQN9/IA-FIAP-team-library?node-id=0-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=513%3A271&show-proto-sidebar=1)
+
+[Apresentação](https://docs.google.com/presentation/d/1JRjpYuCBHih451_CrM_LbNcF2I8M0fttGGtGWy4IG10/edit#slide=id.g21993746b65_0_1384)
