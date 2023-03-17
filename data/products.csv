@@ -1,0 +1,100 @@
+id,name,description,category,price,stock,created_at,updated_at,deleted_at
+1,T-shirt,"A simple and comfortable T-shirt",1,20,100,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+2,Jeans,"Classic blue jeans",1,50,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+3,Sneakers,"Sporty and stylish sneakers",1,80,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+4,Hoodie,"A warm and cozy hoodie",1,40,80,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+5,"Running Shoes","Lightweight and comfortable shoes for running",1,70,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+6,Shorts,"Comfortable and lightweight shorts",1,30,60,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+7,Backpack,"A durable and spacious backpack",2,50,40,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+8,Suitcase,"A high-quality and stylish suitcase",2,100,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+9,"Messenger Bag","A versatile and stylish bag",2,60,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+10,Wallet,"A sleek and minimalist wallet",2,20,100,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+11,Briefcase,"A professional and elegant briefcase",2,80,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+12,Smartphone,"A powerful and high-end smartphone",3,1000,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+13,Tablet,"A portable and versatile tablet",3,600,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+14,Laptop,"A high-performance and reliable laptop",3,1200,5,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+15,Smartwatch,"A stylish and feature-packed smartwatch",3,300,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+16,Headphones,"Premium noise-cancelling headphones",3,350,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+17,Camera,"A professional-grade camera with advanced features",4,2000,5,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+18,Lens,"A high-quality lens for professional photography",4,1000,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+19,Tripod,"A sturdy and reliable tripod for cameras",4,150,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+20,Flash,"A powerful external flash for cameras",4,200,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+21,Drone,"A high-tech drone for aerial photography and videography",4,1500,3,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+22,"Coffee Maker","A high-quality and easy-to-use coffee maker",5,100,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+23,Kettle,"A stylish and efficient electric kettle",5,50,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+24,Toaster,"A reliable and functional toaster",5,40,80,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+25,Blender,"A powerful and versatile blender",5,80,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+26,Mixer,"A high-performance and durable mixer",5,120,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+27,"Knife Set","A set of high-quality and sharp knives",6,150,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+28,"Cutting Board","A durable and easy-to-clean cutting board",6,30,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+29,"Cookware Set","A comprehensive set of high-quality cookware",6,300,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+30,Spatula,"A versatile and durable spatula",6,10,100,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+31,"Nike Air Force 1","Leather and synthetic upper with textile lining, rubber outsole.",6,110,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+32,"Adidas Originals Superstar","Leather and synthetic upper with rubber outsole.",6,90,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+33,"Puma Calibrate Runner","Textile upper with rubber outsole.",6,80,25,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+34,"Reebok Classic Leather","Leather upper with rubber outsole.",6,70,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+35,"Converse Chuck Taylor All Star","Canvas upper with rubber outsole.",6,50,40,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+36,"Timberland 6 Inch Premium Boot","Leather upper with rubber outsole.",6,180,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+37,"New Balance 574 Core","Suede and mesh upper with rubber outsole.",6,100,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+38,"Vans Old Skool","Canvas and suede upper with rubber outsole.",6,65,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+39,"Asics Gel-Kayano 27","Mesh upper with rubber outsole.",6,160,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+40,"Salomon Speedcross 5","Mesh and synthetic upper with rubber outsole.",6,130,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+41,"Nike Mercurial Superfly 7 Elite","Synthetic upper with rubber outsole.",7,300,5,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+42,"Adidas Predator 20.1 FG","Synthetic upper with rubber outsole.",7,250,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+43,"Puma Future Z 1.1 FG/AG","Synthetic upper with rubber outsole.",7,220,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+44,"Under Armour Magnetico Pro FG","Synthetic upper with rubber outsole.",7,200,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+45,"Mizuno Morelia Neo III β","K-Leather upper with rubber outsole.",7,180,25,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+46,"Wilson Evolution Indoor Basketball","Composite leather cover with cushion core technology.",8,60,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+47,"Spalding NBA Street Basketball","Rubber cover with deep channel design.",8,25,40,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+48,"Molten BGG Basketball","Synthetic leather cover with butyl bladder.",8,45,35,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+49,"Nike Premier Team FIFA Soccer Ball","Machine-stitched TPU cover with reinforced rubber bladder.",9,40,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+50,"Adidas Tango Sala Futsal Ball","Machine-stitched PU cover with butyl bladder.",9,30,40,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+51,"The Hitchhiker's Guide to the Galaxy","A science fiction comedy series written by Douglas Adams",10,20,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+52,"To Kill a Mockingbird","A classic novel written by Harper Lee",10,18,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+53,1984,"A dystopian novel written by George Orwell",10,22,25,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+54,"Pride and Prejudice","A romantic novel written by Jane Austen",10,16,35,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+55,"The Lord of the Rings","An epic high fantasy novel written by J. R. R. Tolkien",10,25,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+56,"Apple iPhone 13","The latest smartphone from Apple",11,1100,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+57,"Samsung Galaxy S21","The flagship smartphone from Samsung",11,900,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+58,"Sony WH-1000XM4","Noise-cancelling wireless headphones from Sony",11,350,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+59,"Amazon Echo Dot (4th gen)","A smart speaker with Alexa voice assistant",11,50,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+60,"Google Nest Learning Thermostat","A smart thermostat that learns your habits",11,250,5,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+61,"Nike Air Zoom Pegasus 38","A popular running shoe from Nike",12,120,25,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+62,"Adidas Ultraboost 21","A running shoe with responsive cushioning from Adidas",12,150,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+63,"Spalding NBA Official Game Ball","The official basketball used in NBA games",12,100,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+64,"Wilson Pro Staff RF97 Tennis Racquet","A tennis racquet used by Roger Federer",12,200,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+65,"Mizuno Pro Limited Edition Baseball Glove","A high glove",20,300,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+66,"Samsung Galaxy S21","5G smartphone with 6.2-inch display, 128GB storage, and 8GB RAM",13,999,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+67,"Apple Watch Series 7","Smartwatch with always-on Retina display and various health and fitness features",14,379,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+68,"Dell XPS 13","13-inch laptop with 11th Gen Intel Core i7 processor, 16GB RAM, and 512GB SSD",15,1299,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+69,"Sony WH-1000XM4","Wireless noise-cancelling headphones with up to 30 hours of battery life",16,349,40,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+70,"Nintendo Switch OLED","Handheld gaming console with OLED display and improved audio",17,349,25,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+71,"GoPro HERO10 Black","Action camera with 5.3K video, 20MP photos, and HyperSmooth 4.0 stabilization",18,499,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+72,"Canon EOS R5","Full-frame mirrorless camera with 45MP sensor and 8K video recording",19,3899,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+73,"Bose QuietComfort Earbuds","True wireless earbuds with noise-cancellation and up to 6 hours of battery life",20,279,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+74,"Razer Blade 15","15-inch gaming laptop with 10th Gen Intel Core i7 processor and NVIDIA GeForce RTX 3060 GPU",15,1799,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+75,"LG OLED CX","55-inch 4K TV with OLED display and support for Dolby Vision IQ and Dolby Atmos",12,1499,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+76,"Microsoft Surface Laptop 4","13.5-inch touchscreen laptop with AMD Ryzen 7 processor and 16GB RAM",15,1499,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+77,"Samsung T7 Touch","Portable SSD with fingerprint security and up to 1TB storage capacity",11,189,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+78,"Apple iPad mini","7.9-inch tablet with A15 Bionic chip and 5G connectivity",11,499,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+79,"Beats Studio Buds","True wireless earbuds with active noise-cancellation and up to 8 hours of battery life",20,149,40,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+80,"LG Gram 17","17-inch ultrabook with 11th Gen Intel Core i7 processor and up to 19.5 hours of battery life",15,1499,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+81,"Nikon Z6 II","Full-frame mirrorless camera with 24.5MP sensor and 4K UHD video recording",19,1999,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+82,"DJI Mini 2","Ultra-compact drone with 4K video and 31-minute flight time",11,449,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+83,"Breville Barista Express","Semi-automatic espresso machine with built-in conical burr grinder",11,699,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+84,"Fitbit Luxe","Fitness tracker with color display and up to 5 days of battery life",14,149,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+85,"Wireless Headphones","Noise-canceling headphones with a long battery life",5,120,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+86,"Smart Watch","Fitness tracker with heart rate monitor and sleep tracking",8,150,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+87,"Bluetooth Speaker","Portable speaker with rich sound quality",7,80,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+88,"Laptop Stand","Ergonomic stand for laptops and notebooks",9,35,100,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+89,"Smart Plug","Wifi-enabled plug to control appliances remotely",11,25,70,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+90,"Camping Tent","Waterproof and lightweight tent for 2 people",12,100,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+91,"Air Fryer","Healthy way to fry food without oil",14,70,15,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+92,"Robot Vacuum","Smart vacuum with mapping and scheduling features",13,250,5,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+93,"Wireless Mouse","Ergonomic and responsive mouse for office or gaming use",6,45,40,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+94,"Electric Shaver","Cordless shaver with multiple attachments and wet/dry use",4,90,25,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+95,"Sous Vide Machine","Precision cooker for perfect cooking results",10,150,20,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+96,"Baby Stroller","Lightweight and foldable stroller for infants and toddlers",16,200,5,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+97,"Yoga Mat","Eco-friendly and non-slip mat for yoga and fitness",15,30,50,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+98,"Dash Cam","High-resolution dash cam for car safety and security",18,120,10,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
+99,"Solar Charger","Portable charger with solar panels for outdoor use",17,50,30,"2023-03-17 12:02:08","2023-03-17 12:02:08",NULL
